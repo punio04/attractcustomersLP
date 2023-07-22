@@ -2328,11 +2328,13 @@ ul {
 
   .webinar-info-table-th {
     width: 100%;
+    font-size: 0.9rem;
   }
 
   .webinar-info-table-td {
     margin-top: 12px;
     width: 100%;
+    font-size: 0.8rem;
   }
 
   .webinar-voice__bg {
@@ -2381,6 +2383,10 @@ ul {
 
   .webinar-voice__txt {
     font-size: 1rem;
+  }
+
+  .webinar-info-bg {
+    padding: 50px 0;
   }
 }
 
